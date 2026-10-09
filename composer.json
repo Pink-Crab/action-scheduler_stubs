@@ -1,0 +1,26 @@
+{
+    "name": "pinkcrab/action-scheduler_stubs",
+    "description": "Action Scheduler stubs for static analysis.",
+    "keywords": [
+        "action-scheduler",
+        "wordpress",
+        "static analysis",
+        "phpstan"
+    ],
+    "homepage": "https://github.com/Pink-Crab/action-scheduler_stubs",
+    "support": {
+        "source": "https://github.com/Pink-Crab/action-scheduler_stubs"
+    },
+    "require": {
+        "php": ">=7.2",
+        "php-stubs/wordpress-stubs": "^6.8 || ^7.0"
+    },
+    "require-dev": {
+        "php-stubs/generator": "^0.8"
+    },
+    "suggest": {
+        "szepeviktor/phpstan-wordpress": "WordPress extensions for PHPStan"
+    },
+    "minimum-stability": "stable",
+    "license": "GPL-3.0-only"
+}
