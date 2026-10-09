@@ -14,5 +14,5 @@ version the stubs were generated from.
 ## Installation
 
 ```
-composer require --dev pinkcrab/action-scheduler_stubs:4.0.0
+composer require --dev pinkcrab/action-scheduler_stubs:4.1.0
 ```
